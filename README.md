@@ -110,7 +110,7 @@ Open the notebook file and run all cells.
 
 ## 👨‍💻 Author
 **Himanshu Tiwari**  
-MCA Student | Data Science Enthusiast  
+M.Sc. Student | Data Science Enthusiast  
 GitHub: https://github.com/Himanshu-tiwari24
 
 ---
