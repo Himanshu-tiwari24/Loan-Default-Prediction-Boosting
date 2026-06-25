@@ -41,7 +41,6 @@ Each model was trained and evaluated using appropriate performance metrics.
 - Recall
 - F1-Score
 - Confusion Matrix
-- ROC-AUC Score
 
 Model comparison was performed to select the best-performing boosting algorithm.
 
